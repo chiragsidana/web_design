@@ -1,0 +1,35 @@
+/* Reset CSS (DO NOT DELETE) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+  float: left;
+}
+.header-logo{
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+  color: #fff;
+}
+/* Write your code below */
+.header-list {
+
+  color: #fff;
+}
+.header{
+  background: #26d0c9;
+  height: 90px;
+}
+li{
+  padding: 33px 20px;
+}
